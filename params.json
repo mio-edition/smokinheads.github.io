@@ -1,6 +1,6 @@
 {
   "name": "smokinheads",
   "tagline": "",
-  "body": "### dave@smokinheads:~$ ./still_work_in_progress.sh\r\n\r\n### khaboom:~$ [./html5-wip-demo.sh](https://sh-dave.github.io/khaboom)\r\n",
+  "body": "### dave@smokinheads:~$ ls -l\r\ntotal 2 (hidden 3)\r\n\r\ndrwxr-xr-x 1 sh-dave Sep 30 23:36 [khaboom-wip-html5-demo](https://sh-dave.github.io/khaboom)\r\ndrwxr-xr-x 1 sh-dave Aug 10 17:43 [khrillion-wip-html5-demo](https://sh-dave.github.io/khrillion)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
