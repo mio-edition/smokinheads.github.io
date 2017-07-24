@@ -1,6 +1,0 @@
-{
-  "name": "smokinheads",
-  "tagline": "",
-  "body": "### dave@smokinheads:~$ ls -l libs*  \r\ntotal 2 (hidden 4)  \r\n\r\ndrwxr-xr-x 1 sh-dave Dec 09 2016 [haxe-format-bitmapfont](https://sh-dave.github.io/haxe-format-bitmapfont)  \r\ndrwxr-xr-x 1 sh-dave Nov 05 2016 [haxe-format-obj](https://sh-dave.github.io/haxe-format-obj)  \r\ndrwxr-xr-x 1 sh-dave Jun 25 2016 [haxe-format-o2d](https://sh-dave.github.io/haxe-format-o2d)  \r\ndrwxr-xr-x 1 sh-dave Nov 22 2016 [haxe-format-starling](https://sh-dave.github.io/haxe-format-starling)  \r\ndrwxr-xr-x 1 sh-dave Oct 12 2016 [haxe-format-vox](https://sh-dave.github.io/haxe-format-vox)  \r\n\r\ndrwxr-xr-x 1 sh-dave Dec 01 2016 [kha-bitmapfont-extension](https://sh-dave.github.io/kha-bitmapfont-extension)  \r\ndrwxr-xr-x 1 sh-dave Nov 24 2016 [kha-nineslice-extension](https://sh-dave.github.io/kha-nineslice-extension)  \r\ndrwxr-xr-x 1 sh-dave Dec 05 2016 [kha-textureatlas-extension](https://sh-dave.github.io/kha-textureatlas-extension)  \r\n\r\n### dave@smokinheads:~$ ls -l prototypes*  \r\ntotal 2 (hidden 6)  \r\n\r\ndrwxr-xr-x 1 sh-dave Sep 30 2016 [khaboom-wip-html5-demo](https://sh-dave.github.io/khaboom)  \r\ndrwxr-xr-x 1 sh-dave Aug 10 2016 [khrillion-wip-html5-demo](https://sh-dave.github.io/khrillion)  \r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
